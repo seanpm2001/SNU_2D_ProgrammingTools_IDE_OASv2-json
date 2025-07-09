@@ -37,7 +37,7 @@
 *.less linguist-documentation=false
 *.less linguist-language=Less
 # OASv2-json source file
-*.json linguist-detectable=false
+*.json linguist-detectable=true
 *.json linguist-documentation=false
 *.json linguist-language=OASv2-json
 # JSON (JavaScript Object Notation) source file
@@ -171,7 +171,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2025, Tuesday, July 8th at 10:30 pm PST)
+# File version: 6 (2025, Tuesday, July 8th at 10:36 pm PST)
 # Line count (including blank lines and compiler line): 178
 
 # End of script
